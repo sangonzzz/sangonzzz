@@ -1,5 +1,5 @@
 <div align="center">
-   <h3><span><---------</span> TAKE A BREAK, MARIANO'S BIO <span>---------></span></h3> 
+   <h3><span><---------</span> TAKE A BREAK, SANTIAGO'S BIO <span>---------></span></h3> 
 </div>
 
 <!-- Image and Caption -->
