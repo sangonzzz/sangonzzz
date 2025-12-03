@@ -5,7 +5,7 @@
 <!-- Image and Caption -->
 <div align="center">
    <figure>
-      <img src="https://github.com/RiveraMariano/riveramariano/blob/main/darksouls.gif" title="Solaire" alt="Dark Souls I" width="630">
+      <img src="https://github.com/RiveraMariano/riveramariano/blob/main/roshi.gif" title="Solaire" alt="Dark Souls I" width="630">
       <br>
       <figcaption align="center"><b>You have to work, you have to learn, you have to eat, you have to rest, and you also have to play. These are the foundations of training to achieve good fitness. - Master Roshi</b></figcaption>
     </figure>
